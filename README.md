@@ -16,8 +16,8 @@ A dynamic form-building application that enables users to create, save, and publ
 - **Frontend**: Next.js 13, TypeScript, Tailwind CSS, Shadcn-UI
 - **Backend**: Prisma ORM, PostgreSQL
 - **Authentication**: Clerk
-- **State Management**: SWR for data fetching
-- **Deployment**: Docker, AWS
+- **State Management**: Redux
+- **Deployment**: Versel
 
 ## Installation
 
